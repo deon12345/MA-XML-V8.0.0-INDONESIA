@@ -1,0 +1,10 @@
+<resources>
+    <string name="label_airplane_mode">Uçak Modu</string>
+    <string name="label_silent_mode">Sessiz Mod</string>
+    <string name="label_reboot">Yeniden Başlat</string>
+    <string name="label_shutdown">Cihazı Kapat</string>
+    <string name="label_alert_reboot">Yeniden Başlat</string>
+    <string name="label_alert_shutdown">Kapatmak İçin Simgeye Dokunun</string>
+    <string name="label_alert_recovery">Recovery Mod</string>
+    <string name="label_alert_bootloader">Bootloader Mod</string>
+</resources>

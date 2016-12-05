@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<MIUI-Theme category="clock" size="2:2">
+	<version>1</version>
+	<uiVersion>1</uiVersion>
+	<title>Clock</title>
+	<titles>
+		<title locale="zh_CN">时钟</title>
+		<title locale="zh_TW">時鐘</title>
+		<title locale="in_ID">Jam</title>
+		<title locale="ms_MY">Jam</title>
+		<title locale="vi_VN">Đồng hồ</title>
+		<title locale="ru_RU">Часы</title>
+		<title locale="pt_BR">Relógio</title>
+		<title locale="th_TH">นาฬิกา</title>
+		<title locale="tr_TR">Saat</title>
+		<title locale="hi_IN">घड़ी</title>
+		<title locale="ta_IN">கடிகாரம்</title>
+		<title locale="te_IN">గడియారం</title>
+		<title locale="kn_IN">ಗಡಿಯಾರ</title>
+		<title locale="bn_IN">ঘড়ি</title>
+		<title locale="ml_IN">ഘടികാരം</title>
+		<title locale="mr_IN">घड्याळ</title>
+		<title locale="as_IN">ঘড়ী</title>
+		<title locale="gu_IN">ઘડિયાળ</title>
+		<title locale="pa_IN">ਘੜੀ</title>
+		<title locale="fr_FR">Horloge</title>
+		<title locale="de_DE">Uhr</title>
+		<title locale="es_US">Reloj</title>
+		<title locale="es_ES">Reloj</title>
+		<title locale="it_IT">Orologio</title>
+		<title locale="ko_KR">시계</title>
+		<title locale="uk_UA">Годинник</title>
+		<title locale="ar_EG">ساعة</title>
+		<title locale="fa_IR">ساعت</title>
+		<title locale="my_MM">နာရီ</title>
+		<title locale="bo_CN">དུས་ཅོང་།</title>
+		<title locale="ug_CN">سائەت</title>
+		<title locale="pl_PL">Zegar</title>
+		<title locale="lt_LT">Laikrodis</title>
+		<title locale="hu_HU">Világóra</title>
+		<title locale="uz_UZ">Soat</title>
+		<title locale="ro_RO">Ceas</title>
+		<title locale="cs_CZ">Hodiny</title>
+		<title locale="hr_HR">Sat</title>
+		<title locale="bg_BG">Часовник</title>
+		<title locale="el_GR">Ρολόι</title>
+		<title locale="iw_IL">שעון</title>
+		<title locale="ne_IN">घडि</title>
+		<title locale="ne_NP">घडि</title>
+		<title locale="or_IN">ଘଣ୍ଟା</title>
+		<title locale="ur_IN">گھڑی</title>
+		<title locale="ur_PK">گھڑی</title>
+		<title locale="bn_BD">ঘড়ি</title>
+	</titles>
+</MIUI-Theme>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_airplane_mode">বিমান</string>
+    <string name="label_silent_mode">নীরব</string>
+    <string name="label_reboot">রিবুট</string>
+    <string name="label_shutdown">বিদ্যুত বন্ধ</string>
+    <string name="label_alert_reboot">পুনঃবুট করার জন্য উপরে ট্যাপ করুন</string>
+    <string name="label_alert_shutdown">বিদ্যুত্ বন্ধ করার জন্য উপরে ট্যাপ করুন</string>
+    <string name="label_alert_recovery">Recovery mode</string>
+    <string name="label_alert_bootloader">Bootloader mode</string>
+</resources>

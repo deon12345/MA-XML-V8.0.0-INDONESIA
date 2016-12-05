@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="label_airplane_mode">Flugmodus</string>
+    <string name="label_silent_mode">Lautlos</string>
+    <string name="label_reboot">Neustart</string>
+    <string name="label_shutdown">Ausschalten</string>
+    <string name="label_alert_reboot">Zum Neustarten oben drücken</string>
+    <string name="label_alert_shutdown">Zum Herunterfahren oben drücken</string>
+    <string name="label_alert_recovery">Recovery mode</string>
+    <string name="label_alert_bootloader">Bootloader mode</string>
+</resources>
